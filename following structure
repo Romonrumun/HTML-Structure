@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Example Page</title>
+</head>
+<body>
+    <h1 id="title">Welcome to My Website</h1>
+    <p class="content">This is some content.</p>
+    <button id="changeButton">Change Content</button>
+
+    <script src="script.js"></script>
+</body>
+</html>
